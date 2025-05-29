@@ -7,7 +7,7 @@ Based on [PSFree from Kame repo](https://github.com/kmeps4/PSFree)
 # How to run
 
 ## Website
-[Click Here](https://nazky.github.io/PSFree/)
+[Click Here](https://xc-fo.github.io/PSFree/)
 
 ## Locally
 
