@@ -3,7 +3,8 @@ html, body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background: #222222;
+    background: url('https://raw.githubusercontent.com/XC-FO/PSFree/refs/heads/main/Picsart_24-07-17_22-19-36-117.jpg') no-repeat center center fixed;
+    background-size: cover;
 }
 body {
     min-height: 100vh;
