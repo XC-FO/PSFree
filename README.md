@@ -1,3 +1,5 @@
+special thank for 
+nazky
 # PSFree
 PSFree website to jailbreak you'r PS4 (only 9.00 for now | WIP !)
 Based on [PSFree from Kame repo](https://github.com/kmeps4/PSFree)
